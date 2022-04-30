@@ -1,6 +1,6 @@
 <?php
 
-namespace TheRiptide\LaravelDashboardComponents;
+namespace TheRiptide\LaravelFrontComponents;
 
 use Illuminate\Support\ServiceProvider;
 
