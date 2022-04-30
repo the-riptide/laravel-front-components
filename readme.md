@@ -1,6 +1,6 @@
-# laravel-admin-dash-components
+# laravel-front-components
 
-## A set of components for building the admin dashboard
+## A set of components for building the front
 
 This package offers will offer a basic set of components that you can use to build the admin dashboard. 
 
